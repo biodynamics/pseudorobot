@@ -1,0 +1,2 @@
+# pseudorobot
+funny robot practices.
